@@ -7,7 +7,7 @@ var ffmpeg = require('fluent-ffmpeg');
 
 const { parse, stringify, resync, toMS, toSrtTime } = require('subtitle');
 
-var story = ["Johnny Johnny", "Yes Papa", "Eating sugar?", "No Papa", "Telling lies?", "No papa", "Open Your Mouth", "Ha Ha Ha"];
+var story = ["Jack and Jill went up the Hill to fetch a pail of water", "Jill fell down and broke her Crown", "Jack came tumbling after"];
 
 var gifMap = new Map();
 
