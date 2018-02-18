@@ -13,7 +13,7 @@ note : you will need to replace the Giphy API key in the code, as well as replac
 
 ## DEMO VIDEO
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iTZEAAA_dsM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Giftory Demo](http://img.youtube.com/vi/iTZEAAA_dsM/0.jpg)](http://www.youtube.com/watch?v=iTZEAAA_dsM "Giftory Demo")
 
 ## CURRENT BUG/IMPROVEMENT LOG:
 
