@@ -1,0 +1,32 @@
+{
+  "name": "giftory",
+  "version": "1.0.0",
+  "description": "Make any piece of text into an entertaining gif movie",
+  "main": "gif2story.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikshepsvn/Giftory.git"
+  },
+  "keywords": [
+    "gif",
+    "node",
+    "story",
+    "text"
+  ],
+  "author": "Nikshep Svn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikshepsvn/Giftory/issues"
+  },
+  "homepage": "https://github.com/nikshepsvn/Giftory#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "download-file": "^0.1.5",
+    "fluent-ffmpeg": "^2.1.2",
+    "giphy": "0.0.4",
+    "wordpos": "^1.1.5"
+  }
+}
